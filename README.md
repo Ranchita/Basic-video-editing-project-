@@ -1,0 +1,1 @@
+This repository showcases my basic video editing skills that i am currently learning and practicing during my training period. I have worked on simple vieo edits using beginenr- level tools and techniques to understand he fundamentals of video editing. 
